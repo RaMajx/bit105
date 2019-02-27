@@ -4,7 +4,7 @@
 ## Issue Being Resolved
 (i.e. Resolves #XX)
 
-## Code Review
-*Choose Code Reviewers using the GitHub Reviewers option. (upper right)*
-
 ## Testing Instructions
+
+*Tag Code Reviewers using the GitHub Reviewers option. (upper right)*
+To Code Review successfully, leave *NO comments*, click *Approve* and then click *Submit*.
