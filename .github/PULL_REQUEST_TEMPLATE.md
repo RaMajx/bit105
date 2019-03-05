@@ -2,7 +2,7 @@
 (Type Summary here...) 
 
 ## Issue Being Resolved
-(i.e. Resolves #XX)
+Resolves #XX
 
 ## Testing Instructions
 
